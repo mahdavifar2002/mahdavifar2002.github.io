@@ -53,7 +53,7 @@ interests:
   - Competitive Programming
 
 education:
-  - area: M.Sc. in Computational Colour and Spectral Imaging (Withdrawn)
+  - area: M.Sc. in Colour Imaging (Withdrawn)
     institution: Norwegian University of Science and Technology (NTNU)
     icon: ""
     date_start: 2024-08-01
@@ -160,4 +160,4 @@ awards:
     summary:
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Ali Mahdavifar is a Computer Engineer and Algorithms Researcher based in Troms, Norway. A top-ranking graduate of Sharif University of Technology, he has conducted research on computational complexity at the Max Planck Institute for Informatics (MPI-INF). Beyond his research, Ali has practical experience in software development from his time at Ayandenegar Animation Studio. Outside of work, he enjoys cycling, Persian calligraphy, and strategy board games.
