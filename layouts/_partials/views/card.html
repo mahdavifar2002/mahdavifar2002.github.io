@@ -121,8 +121,8 @@
         </a>
       </h3>
       
-      <p class="text-zinc-600 dark:text-zinc-400 text-base leading-relaxed line-clamp-3">
-        {{ ($item.Params.summary | default $item.Summary) | plainify | htmlUnescape | truncate 180 }}
+      <p class="text-zinc-600 dark:text-zinc-400 text-base leading-relaxed">
+        {{ ($item.Params.summary | default $item.Summary) | plainify | htmlUnescape }}
       </p>
 
       {{ with $item.Params.content_meta.prerequisites }}
